@@ -12,7 +12,7 @@ A userdata script which allows you to like or dislike videos on YouTube by press
 
 ## Installing
 
-Install [GreaseMoneky](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox) or [Tamoermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (Chrome) and create a new script. Copy the contents of `youtube-like-shortcuts.user.js` into the new script and save it.
+Install [GreaseMoneky](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (Chrome) and create a new script. Copy the contents of `youtube-like-shortcuts.user.js` into the new script and save it.
 
 ##  Author
 
